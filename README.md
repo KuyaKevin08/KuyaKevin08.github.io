@@ -8,7 +8,6 @@
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
 |  tulog |  kain   |   laro    |  tambay  |  ligo  |
-|--------|---------|-----------|----------|--------|
 
 
 
